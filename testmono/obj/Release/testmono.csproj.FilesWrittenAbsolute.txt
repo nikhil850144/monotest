@@ -1,0 +1,6 @@
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Release\.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\output\Release\testmono.exe.config
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\output\Release\testmono.exe.mdb
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\output\Release\testmono.exe
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Release\testmono.exe
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Release\testmono.exe.mdb

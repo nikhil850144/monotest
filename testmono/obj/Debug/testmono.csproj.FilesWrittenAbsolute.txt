@@ -1,0 +1,13 @@
+c:\Users\csehgan\documents\visual studio 2015\Projects\testmono\testmono\obj\Debug\.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+c:\Users\csehgan\documents\visual studio 2015\Projects\testmono\testmono\bin\Debug\testmono.exe.config
+c:\Users\csehgan\documents\visual studio 2015\Projects\testmono\testmono\bin\Debug\testmono.exe.mdb
+c:\Users\csehgan\documents\visual studio 2015\Projects\testmono\testmono\bin\Debug\testmono.exe
+c:\Users\csehgan\documents\visual studio 2015\Projects\testmono\testmono\obj\Debug\testmono.exe
+c:\Users\csehgan\documents\visual studio 2015\Projects\testmono\testmono\obj\Debug\testmono.exe.mdb
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Debug\.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Debug\testmono.exe
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Debug\testmono.exe.mdb
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\testmono\obj\Debug\testmono.pdb
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\output\Debug\testmono.exe.config
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\output\Debug\testmono.exe.mdb
+C:\Users\csehgan\Documents\Visual Studio 2015\Projects\testmono\output\Debug\testmono.exe
